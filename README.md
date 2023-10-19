@@ -1,6 +1,6 @@
 ## Hey there! Welcome to my github page 👋
 
-People online call me Space (not my real name). I'm a passionate AI enthusiast pursuing my degree in AI at Radboud University.
+People online call me Space. I'm a passionate AI enthusiast pursuing my degree in AI at Radboud University.
 
 ### 🤖 Machine Learning Maven
 
